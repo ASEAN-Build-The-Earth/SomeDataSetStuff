@@ -1,12 +1,13 @@
 # SomeDataSetStuff
 I have no idea what im doing
-
+# Images MUST not have copyright becasue like ASEAN BTE will be ded if we get sued
+# Also only png and jpg make sure image very clear so it kul
 Have folders like 
 dog/breed/Dogname.jpg
 some more examples
-plane/brand/Planemodel.jpg
-meme/pepe/memename.jpg
+- plane/brand/Planemodel.jpg
+- meme/pepe/memename.jpg
 more
-cat/breed/Catname.jpg
+- cat/breed/Catname.jpg
 
 (If there are no names just use 00001.jpg etc
