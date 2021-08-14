@@ -7,7 +7,8 @@ dog/breed/Dogname.jpg
 some more examples
 - plane/brand/Planemodel.jpg
 - meme/pepe/memename.jpg
-more
 - cat/breed/Catname.jpg
+- rocket/IOnly/image.jpg
+- rocket/spacex/IDK.jpg
 
 (If there are no names just use 00001.jpg etc
