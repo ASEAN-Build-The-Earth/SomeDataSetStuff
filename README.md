@@ -1,6 +1,6 @@
 # SomeDataSetStuff
 I have no idea what im doing
-# Images MUST not have copyright becasue like ASEAN BTE will be ded if we get sued
+# Only Original images
 # Also only png and jpg make sure image very clear so it cool
 Have folders like 
 dog/breed/Dogname.jpg
