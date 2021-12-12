@@ -1,7 +1,10 @@
-# SomeDataSetStuff
-I have no idea what im doing
+#Why This?
+
+Images contributed here will be used as part of the ASEAN API project. 
+
+
 # Only Original images
-# Also only png and jpg make sure image very clear so it cool
+Also only png and jpg make sure image very clear so it cool
 Have folders like 
 dog/breed/Dogname.jpg
 some more examples
